@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section provides the list of readings by lecture session.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -30,9 +28,9 @@ TOPICS
 {{< tdopen >}}
 
 
-Diderot, Denis. [_Supplement du Voyage du Bougainville_](http://bacdefrancais.net/supplement.php). Livres Généraux, 2010. ISBN: 9781155135021.
+Diderot, Denis. {{% resource_link "2fc85810-756c-4de3-a9e8-9823ccb51d52" "_Supplement du Voyage du Bougainville_" %}}. Livres Généraux, 2010. ISBN: 9781155135021.
 
-Montesquieu. [_Persian Letters_](http://rbsche.people.wm.edu/teaching/plp/), Letters 25–30, 1721.
+Montesquieu. {{% resource_link "f3c588df-d384-4dce-8380-88540a90c192" "_Persian Letters_" %}}, Letters 25–30, 1721.
 
 
 {{< tdclose >}}
@@ -43,7 +41,7 @@ Montesquieu. [_Persian Letters_](http://rbsche.people.wm.edu/teaching/plp/), Let
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Kant, Immanuel. "[What is Entitlement?](http://www.columbia.edu/acis/ets/CCREAD/etscc/kant.html)", 1784.
+Kant, Immanuel. "{{% resource_link "bc4e24b3-a85f-4254-a2f9-d63f19b43546" "What is Entitlement?" %}}", 1784.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,9 +79,9 @@ Xuegin, Cao. Chapters 17–26 in _The Story of the Stone Vol. 1_. Translated by 
 {{< tdopen >}}
 
 
-Smith, Adam. Chapters I–IX and Books I–V in [_The Wealth of Nations_](http://www.econlib.org/library/Smith/smWN.html). Simon & Brown, 2012. ISBN: 9781613820810.
+Smith, Adam. Chapters I–IX and Books I–V in {{% resource_link "d4952217-ee35-419e-8e33-593cf15f3924" "_The Wealth of Nations_" %}}. Simon & Brown, 2012. ISBN: 9781613820810.
 
-Marx, Karl, and Friedrich Engels. Chapter I in [_The Communist Manifesto_](http://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch01.htm). CreateSpace Independent Publishing Platform, 2012. ISBN: 9781453704424.
+Marx, Karl, and Friedrich Engels. Chapter I in {{% resource_link "b829533c-aa56-47a1-9051-1efa88b261df" "_The Communist Manifesto_" %}}. CreateSpace Independent Publishing Platform, 2012. ISBN: 9781453704424.
 
 
 {{< tdclose >}}
@@ -103,7 +101,7 @@ Mill, John Stuart. Chapters 1–3 in _On Liberty: The Subjection of Women_. Nabu
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Darwin, Charles. [_The Origin of Species_](http://www.gutenberg.org/dirs/2/0/0/2009/2009.txt). Signet Classics, 2003. ISBN: 9780451529060.
+Darwin, Charles. {{% resource_link "13b59f45-805a-4d41-8d91-7a3216e80620" "_The Origin of Species_" %}}. Signet Classics, 2003. ISBN: 9780451529060.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,9 +148,9 @@ Tagore, Rabindranath. _Broken Nest and Other Stories_. Translated by Sharmistha 
 {{< tdopen >}}
 
 
-Beauvoir, Simone de. "Introduction" In [_The Second Sex_](http://www.marxists.org/reference/subject/ethics/de-beauvoir/2nd-sex/introduction.htm). Vintage, 2011. ISBN: 9780307277787.
+Beauvoir, Simone de. "Introduction" In {{% resource_link "ea02151f-dc81-43ac-aa9e-5afc33bdbdf4" "_The Second Sex_" %}}. Vintage, 2011. ISBN: 9780307277787.
 
-Parker-Pope, Tara. "[Do Women Like Child Care More Than Men?](http://well.blogs.nytimes.com/2012/03/22/do-women-like-child-care-more-than-men/)" _New York Times_, March 22, 2012.
+Parker-Pope, Tara. "{{% resource_link "ea0f57a6-e459-42b3-8f30-a21b2ff1bc6b" "Do Women Like Child Care More Than Men?" %}}" _New York Times_, March 22, 2012.
 
 
 {{< tdclose >}}
@@ -163,7 +161,7 @@ Parker-Pope, Tara. "[Do Women Like Child Care More Than Men?](http://well.blogs.
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Beauvoir, Simone de. "Conclusion" In [_The Second Sex_](http://www.marxists.org/reference/subject/ethics/de-beauvoir/2nd-sex/ch04.htm). Vintage, 2011. ISBN: 9780307277787.
+Beauvoir, Simone de. "Conclusion" In {{% resource_link "de3385fb-f35b-4497-a20e-67597f7f07fa" "_The Second Sex_" %}}. Vintage, 2011. ISBN: 9780307277787.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -172,7 +170,7 @@ Beauvoir, Simone de. "Conclusion" In [_The Second Sex_](http://www.marxists.org/
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Kincaid, Jamaica. ["Girl." (PDF)](http://static1.squarespace.com/static/54d3dd03e4b0a3a22e201dad/t/54fe33b3e4b0c5b47619eee6/1425945523938/Girl_Jamaica_Kincaid.pdf) In _At the Bottom of the River._ Farrar, Straus and Giroux, 2000. ISBN: 9780374527341.
+Kincaid, Jamaica. {{% resource_link "5a65fb21-8344-4b49-a0cf-c669574f9c82" "\"Girl.\" (PDF)" %}} In _At the Bottom of the River._ Farrar, Straus and Giroux, 2000. ISBN: 9780374527341.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -181,7 +179,7 @@ Kincaid, Jamaica. ["Girl." (PDF)](http://static1.squarespace.com/static/54d3dd03
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Conrad, Joseph. _Heart of Darkness and Other Tales_. Oxford University Press, 2008. ISBN: 9780199536016. \[Preview with [Google Books](http://books.google.com/books?id=_Q4ZCuX4goIC&pg=PAfrontcover#v=onepage)\]
+Conrad, Joseph. _Heart of Darkness and Other Tales_. Oxford University Press, 2008. ISBN: 9780199536016. \[Preview with {{% resource_link "bf14e268-c98d-4efe-8b34-a5282d6a72a3" "Google Books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -210,7 +208,7 @@ Salih, Al-Tayyib, and Tayeb Salih. _Season of Migration to the North: A Novel_. 
 {{< tdopen >}}
 
 
-neversaidb4. "Reel Bad Arabs: How Hollywood Vilifies a People (part 1)." June 24, 2008. YouTube. Accessed November 16, 2012. [http://www.youtube.com/watch?v=k1-Bbz\_TBMc](http://www.youtube.com/watch?v=k1-Bbz_TBMc).
+neversaidb4. "Reel Bad Arabs: How Hollywood Vilifies a People (part 1)." June 24, 2008. YouTube. Accessed November 16, 2012. {{% resource_link "9a0024b5-a413-4283-bc67-db350b7f9706" "http://www.youtube.com/watch?v=k1-Bbz\_TBMc" %}}.
 
 Said, Edward W. _Orientalism_. Vintage, 1979, pp. 1–92. ISBN: 9780394740676.
 
@@ -234,7 +232,7 @@ Foucault, Michel. _Discipline and Punish: The Birth of the Prison_. Vintage Book
 {{< tdopen >}}
 
 
-Arendt, Hannah. _[Reflections on Violence](http://www.nybooks.com/articles/archives/1969/feb/27/a-special-supplement-reflections-on-violence/?pagination=false)._ Collier-MacMillan Ltd., 1969.
+Arendt, Hannah. _{{% resource_link "7c16995d-37b4-4db9-9ff9-a0481ce6b1e1" "Reflections on Violence" %}}._ Collier-MacMillan Ltd., 1969.
 
 
 {{< tdclose >}}
@@ -251,7 +249,7 @@ Milgram, Stanley. "The Perils of Obedience" in _Representations: Essays on Liter
 
 Marcus, Steven. "Authority and Obedience" in _Representations: Essays on Literature and Society_. Columbia University Press, 1991. ISBN: 9780231074018.
 
-Zimbardo, Philip G. [Stanford Prison Experiment](http://www.prisonexp.org/). 1971.
+Zimbardo, Philip G. {{% resource_link "3949611a-99b0-49a6-905e-46b661555c15" "Stanford Prison Experiment" %}}. 1971.
 
 
 {{< tdclose >}}

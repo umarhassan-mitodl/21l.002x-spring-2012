@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, class rules, assignments, textbooks, grading, a statement on plagiarism,
   and the schedule of lecture topics and key dates for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -55,7 +53,7 @@ Freud, Sigmund. _Civilization and Its Discontents_. W. W. Norton & Company, 2010
 
 Tagore, Rabindranath. _Broken Nest and Other Stories_. Translated by Sharmistha Mohanty. Westland Limited, 2009. ISBN: 9788189975630.
 
-Conrad, Joseph. _Heart of Darkness and Other Tales_. Oxford University Press, 2008. ISBN: 9780199536016. \[Preview with [Google Books](http://books.google.com/books?id=_Q4ZCuX4goIC&pg=PAfrontcover#v=onepage)\]
+Conrad, Joseph. _Heart of Darkness and Other Tales_. Oxford University Press, 2008. ISBN: 9780199536016. \[Preview with {{% resource_link "bf14e268-c98d-4efe-8b34-a5282d6a72a3" "Google Books" %}}\]
 
 Salih, Al-Tayyib, and Tayeb Salih. _Season of Migration to the North_. NYRB Classics, 2009. ISBN: 9781590173022.
 
@@ -99,7 +97,7 @@ Class participation (includes oral presentations)
 MIT Statement on Plagiarism
 ---------------------------
 
-Plagiarism—use of another's intellectual work without acknowledgement—is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available at the [Writing and Communication Center](http://web.mit.edu/writing/) and the [MIT website on Plagiarism](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/).
+Plagiarism—use of another's intellectual work without acknowledgement—is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available at the {{% resource_link "89d6f1ab-89a9-46be-8e2a-de3f8fe80bcc" "Writing and Communication Center" %}} and the {{% resource_link "312703d9-fe77-494d-bd82-efb1526ce324" "MIT website on Plagiarism" %}}.
 
 Calendar
 --------
@@ -315,7 +313,7 @@ Paper topics distributed.
 
 de Beauvoir, Simone. _The Second Sex_, Introduction.
 
-"[Do Women Like Child Care More Than Men?](http://well.blogs.nytimes.com/2012/03/22/do-women-like-child-care-more-than-men/)" _New York Times_, March 22, 2012.
+"{{% resource_link "ea0f57a6-e459-42b3-8f30-a21b2ff1bc6b" "Do Women Like Child Care More Than Men?" %}}" _New York Times_, March 22, 2012.
 
 
 {{< tdclose >}}
@@ -341,7 +339,7 @@ Second paper due
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Kincaid, Jamaica. [_Girl._ (PDF)](http://www.saginaw-twp.k12.mi.us/view/8490.pdf)
+Kincaid, Jamaica. {{% resource_link "d24c4ba0-554c-42a0-b284-d7483cdaf377" "_Girl._ (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -397,7 +395,7 @@ Salih, Al-Tayyib, and Tayeb Salih. _Season of Migration to the North: A Novel_. 
 {{< tdopen >}}
 
 
-neversaidb4. "Reel Bad Arabs: How Hollywood Vilifies a People (part 1)." June 24, 2008. YouTube. Accessed November 16, 2012. [http://www.youtube.com/watch?v=k1-Bbz\_TBMc](http://www.youtube.com/watch?v=k1-Bbz_TBMc).
+neversaidb4. "Reel Bad Arabs: How Hollywood Vilifies a People (part 1)." June 24, 2008. YouTube. Accessed November 16, 2012. {{% resource_link "9a0024b5-a413-4283-bc67-db350b7f9706" "http://www.youtube.com/watch?v=k1-Bbz\_TBMc" %}}.
 
 Said, Edward W. _Orientalism_, pp. 1–92.
 
@@ -427,7 +425,7 @@ Foucault, Michel. _Discipline and Punish_, pp. 3–8, 195–228.
 {{< tdopen >}}
 
 
-Arendt, Hannah. "[Reflections on Violence](http://www.nybooks.com/articles/archives/1969/feb/27/a-special-supplement-reflections-on-violence/)."
+Arendt, Hannah. "{{% resource_link "b919b017-6575-437a-97d3-a49675955fed" "Reflections on Violence" %}}."
 
 
 {{< tdclose >}}
@@ -445,7 +443,7 @@ Arendt, Hannah. "[Reflections on Violence](http://www.nybooks.com/articles/archi
 
 Milgram, Stanley. "The Perils of Obedience" and Marcus, Steven. "Authority and Obedience" In _Representations: Essays on Literature and Society_.
 
-Zimbardo, Philip G. [_Stanford Prison Experiment_](http://www.prisonexp.org/). 1971.
+Zimbardo, Philip G. {{% resource_link "3949611a-99b0-49a6-905e-46b661555c15" "_Stanford Prison Experiment_" %}}. 1971.
 
 
 {{< tdclose >}}
@@ -461,9 +459,9 @@ Zimbardo, Philip G. [_Stanford Prison Experiment_](http://www.prisonexp.org/). 1
 {{< tdopen >}}
 
 
-Chaplin, Charles. [_Modern Times_](http://www.imdb.com/title/tt0027977/). 1936.
+Chaplin, Charles. {{% resource_link "e6cda97a-6bdc-4133-ab08-a5707a5051a4" "_Modern Times_" %}}. 1936.
 
-Lang, Fritz. [_Metropolis_](http://www.imdb.com/title/tt0017136/). 1927.
+Lang, Fritz. {{% resource_link "1f957346-b3c9-4a65-b355-5e38afacea04" "_Metropolis_" %}}. 1927.
 
 
 {{< tdclose >}}

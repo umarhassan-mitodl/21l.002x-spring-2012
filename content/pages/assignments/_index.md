@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides guidelines and instructions for the writing assignments
   of the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -19,7 +17,7 @@ General
 
 For each essay, pick one of the questions and respond to it in an essay of 7-8 pages. Make sure to have a thesis, and to flesh out your argument and support it with examples from the text. Refer to the "Advice for Writing" section for guidelines.
 
-Papers must be submitted in a 12-type font (preferably Times New Roman or Arial); your essays must also be double-spaced. Use the MLA guidelines for citation (For more on the MLA format, see [MLA Formatting and Style Guide](http://owl.english.purdue.edu/owl/resource/747/01/)).
+Papers must be submitted in a 12-type font (preferably Times New Roman or Arial); your essays must also be double-spaced. Use the MLA guidelines for citation (For more on the MLA format, see {{% resource_link "4705a2af-d9a7-4154-b1e4-975f492431ec" "MLA Formatting and Style Guide" %}}).
 
 For essays 1 and 2, you have **two** days to decide if you'd like to revise your essay, after it is returned. You will then have a week to submit your revision. You **must** revise at least one of your first two papers.
 
